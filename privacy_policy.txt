@@ -1,8 +1,8 @@
-Effective Date: October 10, 2025.
+Effective Date: January 13, 2026.
 
 Sack Tracker App Privacy Policy
 
-Sack Tracker respects your privacy. This app does not collect, store, or share any personal information or user data. No information about your usage, device, or identity is gathered or transmitted to us or any third parties.
+Sack Tracker respects your privacy. The app stores player names and cornhole statistics locally on your device to enable scorekeeping features. This data remains on your device and is not transmitted to us or shared with third parties. You may remove this information by deleting the app or its data from your device.
 
 If you have any questions about this privacy policy, please contact us at sacktrackers@gmail.com.
 
