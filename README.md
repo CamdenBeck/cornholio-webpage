@@ -26,7 +26,7 @@ To set up the support webpage, follow these steps:
 
 For any inquiries or support, please contact us at:
 
-- Email: support@cornholioapp.com
+- Email: sacktrackers@gmail.com
 
 ## Reporting Issues and Providing Feedback
 
